@@ -44,13 +44,6 @@ $ vim .env
 <br>
 
 ## 启动程序
-
-- 进入项目目录
-
-```bash
-$ cd clash-for-IPFire
-```
-
 - 运行启动脚本
 
 ```bash
