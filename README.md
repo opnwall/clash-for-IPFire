@@ -1,10 +1,18 @@
-# clash for IPFire 
+# clash-for-IPFire 
 
 # 项目介绍
 
 此项目是通过使用开源项目[mihomo](https://github.com/MetaCubeX/mihomo)作为核心程序，再结合脚本实现简单的代理功能。
 
 主要是为了解决我们在服务器上下载GitHub等一些国外资源速度慢的问题。
+
+# 项目来源
+
+源代码来自：
+https://github.com/LopSdir/clash-for-linux
+
+订阅转换代码来自：
+https://github.com/tindy2013/subconverter
 
 <br>
 
